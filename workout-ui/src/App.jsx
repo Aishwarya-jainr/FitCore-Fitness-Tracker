@@ -1,10 +1,10 @@
 import { Routes, Route } from 'react-router-dom'
-import Layout from './components/Layout'
-import Dashboard from './pages/Dashboard'
-import Exercises from './pages/Exercises'
-import Sessions from './pages/Sessions'
-import Progress from './pages/Progress'
-import Users from './pages/Users'
+import Layout from './components/Layout.jsx'
+import Dashboard from './pages/Dashboard.jsx'
+import Exercises from './pages/Exercises.jsx'
+import Sessions from './pages/Sessions.jsx'
+import Progress from './pages/Progress.jsx'
+import Users from './pages/Users.jsx'
 
 function App() {
   return (
